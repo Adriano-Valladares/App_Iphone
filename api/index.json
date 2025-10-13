@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Nonograma Fácil 1",
+    "dificultad": "facil",
+    "gridSize": 10,
+    "imagen": null
+  },
+  {
+    "id": 2,
+    "nombre": "Nonograma Demo 2",
+    "dificultad": "facil",
+    "gridSize": 5,
+    "imagen": null
+  },
+  {
+    "id": 3,
+    "nombre": "Nonograma Fácil 3",
+    "dificultad": "facil",
+    "gridSize": 10,
+    "imagen": null
+  },
+  {
+    "id": 8,
+    "nombre": "Nonograma Difícil 1",
+    "dificultad": "dificil",
+    "gridSize": 15,
+    "imagen": null
+  }
+]
